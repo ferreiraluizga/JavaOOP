@@ -1,4 +1,4 @@
 # JavaOOP
 
-## Métodos
-- Exercícios para praticar o uso de métodos em Java
+## JFrame
+- Exercícios para praticar o uso do JFrame em Java
