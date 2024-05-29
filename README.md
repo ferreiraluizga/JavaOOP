@@ -1,5 +1,5 @@
 # JavaOOP
-Repositório Criado para armazenar projetos e exercícios que visam o aprendizado na linguagem orientada a objeto e com uso de interface gráfica
+Repositório criado para armazenar projetos e exercícios que visam o aprendizado na linguagem Java orientada à objetos e com uso de interface gráfica
 
 ## Métodos
 <a href="https://github.com/ferreiraluizga/JavaOOP/tree/metodos">Exemplos de aplicações com métodos</a>
